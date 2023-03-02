@@ -11,6 +11,6 @@ NIM: 32200091
 Class: 6PTI1
 ```
 
-Link repository: https://github.com/AlphaByte-RedTeam/python-web-programming-assignment
-Link deployment: https://alphabyte-redteam-streamline-main-kodsqd.streamlit.app/
-Link soal: https://docs.google.com/document/d/1ITU10w1EYzmRNG9D017aAhiLt1bJQvrFLYEP0f5JSJ0/edit?mode=html
+Link repository: https://github.com/AlphaByte-RedTeam/python-web-programming-assignment <br>
+Link deployment: https://alphabyte-redteam-streamline-main-kodsqd.streamlit.app/ <br>
+Link soal: https://docs.google.com/document/d/1ITU10w1EYzmRNG9D017aAhiLt1bJQvrFLYEP0f5JSJ0/edit?mode=html <br>
